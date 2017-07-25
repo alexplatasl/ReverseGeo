@@ -23,6 +23,3 @@ Maintainer: \packageMaintainer{reverseGeo}
 
 
 \keyword{ package }
-\examples{
-~~ simple examples of the most important functions ~~
-}
