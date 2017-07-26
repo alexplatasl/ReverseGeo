@@ -16,5 +16,6 @@ reverseGeo = function(lat,lon,key){
 
 	direccion = gsub("^.*: .","",direccion)
 	direccion = gsub(" Mexico.*$","",direccion)
+	direccion = iconv(direccion, 'UTF-8','windows-1252')
 	return(direccion)
 }
