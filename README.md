@@ -8,7 +8,7 @@ install_github('alexplatasl/reverseGeo')
 library(reverseGeo)
 ```
 
-## Examples
+## Example
 We have some lat-lon coordinates
 
 |LONGITUD	    |LATITUD   |
