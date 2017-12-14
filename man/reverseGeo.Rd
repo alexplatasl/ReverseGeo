@@ -15,5 +15,5 @@ reverseGeo(lat, lon, key)
 
 \value{A human-readable address}
 
-\author{Alejandro Platas-López}
+\author{Alejandro Platas-Lopez}
 
