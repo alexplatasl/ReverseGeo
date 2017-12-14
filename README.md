@@ -34,7 +34,7 @@ for (i in 1:nrow(coords)){
 results
 ```
 
-```{r results}
+```{r , results='asis'}
 > results
 [1] "Paseo Madero 34, Zona Centro, 36000 Guanajuato, Gto.,"                  
 [2] "Calle 7 - 18 19, Pastoresa, 91193 Xalapa Enríquez, Ver.,"               
