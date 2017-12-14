@@ -3,8 +3,8 @@ Type: Package
 Title: An interface for the reverse geocoding service by Google Maps Geocoding API's.
 Version: 1.0
 Date: 2017-07-25
-Author: Alejandro Platas-López
-Maintainer: Alejandro Platas-López <alejandroplatasl@gmail.com>
+Author: Alejandro Platas-Lopez
+Maintainer: Alejandro Platas-Lopez <alejandroplatasl@gmail.com>
 Description: An interface for the reverse geocoding service 
 		by Google Maps Geocoding API's. Reverse geocoding is 
 		the process of converting geographic coordinates 
