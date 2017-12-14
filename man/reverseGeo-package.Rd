@@ -25,9 +25,9 @@ Date: \tab 2017-25-07\cr
 
 Depends: \tab R (>= 2.10)\cr
 
-Author: \tab Alejandro Platas\cr
+Author: \tab Alejandro Platas-López\cr
 
-Maintainer: \tab Alejandro Platas <alejandroplatasl@gmail.com>\cr
+Maintainer: \tab Alejandro Platas-López <alejandroplatasl@gmail.com>\cr
 
 License: \tab GPL\cr
 
@@ -35,7 +35,7 @@ LazyLoad: \tab yes\cr}
 
 }
 
-\author{Alejandro Platas}
+\author{Alejandro Platas-López}
 
 
 
